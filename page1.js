@@ -12,3 +12,7 @@ function add(num1, num2) {
   console.log(`Add - ${num1 + num2}`)
 }
 add(10, 20)
+function sub(num1, num2) {
+  console.log(`Sub - ${num1 - num2}`)
+}
+sub(20, 10)
