@@ -7,3 +7,8 @@ function isEven(num) {
 }
 isEven(10)
 isEven(11)
+
+function add(num1, num2) {
+  console.log(`Add - ${num1 + num2}`)
+}
+add(10, 20)
